@@ -1,4 +1,4 @@
-%% Morgan Githinji (ENEE313H) - Monte Carlo Simulation
+%% Morgan Githinji - Monte Carlo Simulation
 
 % declaring varibles
 SumE = [];
